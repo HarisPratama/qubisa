@@ -1,0 +1,114 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "title": "postingan1",
+      "author": "haris",
+      "id": 7
+    },
+    {
+      "title": "",
+      "author": "",
+      "id": 8
+    },
+    {
+      "title": "posting",
+      "author": "haris",
+      "id": 9
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 10
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 11
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 12
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 13
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 14
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 15
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 16
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 17
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 18
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 19
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 20
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 21
+    },
+    {
+      "title": "haris",
+      "author": "haris",
+      "id": 22
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
